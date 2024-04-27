@@ -1,5 +1,7 @@
 package net.exitstudios.lbd;
 
+import net.exitstudios.lbd.block.ModBlocks;
+import net.exitstudios.lbd.item.ModItemGroups;
 import net.exitstudios.lbd.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
@@ -13,7 +15,9 @@ public class LBD implements ModInitializer {
 
     @Override
     public void onInitialize() {
+        ModItemGroups.registerItemGroups();
         ModItems.registerModItems();
+        ModBlocks.registerModBlocks();
     }
 
 }

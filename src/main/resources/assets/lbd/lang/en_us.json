@@ -1,3 +1,9 @@
 {
-  "item.lbd.ruby": "Ruby"
+  "item.lbd.ruby": "Ruby",
+  "item.lbd.raw_ruby": "Raw Ruby",
+
+  "block.lbd.ruby_block": "Block of Ruby",
+  "block.lbd.raw_ruby_block": "Block of Raw Ruby",
+
+  "itemgroup.lbd": "LBD"
 }
