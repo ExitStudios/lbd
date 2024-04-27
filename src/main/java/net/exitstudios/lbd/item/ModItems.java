@@ -23,7 +23,7 @@ public class ModItems {
     }
 
     public static void registerModItems() {
-        LBD.LOGGER.info("Registering Mod Items For " + LBD.MOD_ID);
+        LBD.LOGGER.info("Registering Mod Items For " + LBD.MOD_ID + "...");
 
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.INGREDIENTS).register(ModItems::addItemToIngredientItemGroup);
     }
