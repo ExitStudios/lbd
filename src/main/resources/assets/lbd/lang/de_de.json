@@ -1,0 +1,9 @@
+{
+  "item.lbd.ruby": "Rubin",
+  "item.lbd.raw_ruby": "Rohrubin",
+
+  "block.lbd.ruby_block": "Rubinblock",
+  "block.lbd.raw_ruby_block": "Rohrubinblock",
+
+  "itemgroup.lbd": "LBD"
+}
