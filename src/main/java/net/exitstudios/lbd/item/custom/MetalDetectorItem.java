@@ -35,7 +35,7 @@ public class MetalDetectorItem extends Item {
                 }
             }
 
-            if(!foundBlock) {
+            if (!foundBlock) {
                 assert player != null;
                 player.sendMessage(Text.literal("No ore found"), false);
             }
@@ -48,7 +48,8 @@ public class MetalDetectorItem extends Item {
     }
 
     public boolean isMetallicOre(BlockState state) {
-        return state.isOf(Blocks.IRON_BLOCK) || state.isOf(Blocks.COPPER_ORE) || state.isOf(Blocks.DIAMOND_ORE);
+        //return state.isOf(Blocks.IRON_BLOCK) || state.isOf(Blocks.COPPER_ORE) || state.isOf(Blocks.DIAMOND_ORE);
+        return state.isOf(Blocks.IRON_BLOCK) || state.isOf(Blocks.DIAMOND_ORE);
     }
 
     public void outputMetallicOreCoordinates(BlockPos pos, PlayerEntity player, Block block) {

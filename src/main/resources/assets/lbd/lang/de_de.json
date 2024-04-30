@@ -8,6 +8,7 @@
   "block.lbd.ruby_ore": "Rubinerz",
   "block.lbd.deepslate_ruby_ore": "Rubinerz",
   "block.lbd.nether_ruby_ore": "Rubinerz",
+  "block.lbd.sound_block": "Musikblock",
 
   "itemgroup.lbd": "LBD"
 }

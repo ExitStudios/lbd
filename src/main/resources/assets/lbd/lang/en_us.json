@@ -8,6 +8,7 @@
   "block.lbd.ruby_ore": "Ruby Ore",
   "block.lbd.deepslate_ruby_ore": "Ruby Ore",
   "block.lbd.nether_ruby_ore": "Ruby Ore",
+  "block.lbd.sound_block": "Sound Block",
 
   "itemgroup.lbd": "LBD"
 }
