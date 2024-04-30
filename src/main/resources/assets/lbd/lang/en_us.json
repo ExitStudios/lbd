@@ -1,9 +1,13 @@
 {
   "item.lbd.ruby": "Ruby",
   "item.lbd.raw_ruby": "Raw Ruby",
+  "item.lbd.metal_detector": "Metal Detector",
 
   "block.lbd.ruby_block": "Block of Ruby",
   "block.lbd.raw_ruby_block": "Block of Raw Ruby",
+  "block.lbd.ruby_ore": "Ruby Ore",
+  "block.lbd.deepslate_ruby_ore": "Ruby Ore",
+  "block.lbd.nether_ruby_ore": "Ruby Ore",
 
   "itemgroup.lbd": "LBD"
 }

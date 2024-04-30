@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "lbd:ruby_block",
+    "lbd:raw_ruby_block",
+    "lbd:ruby_ore",
+    "lbd:deepslate_ruby_ore",
+    "lbd:nether_ruby_ore"
+  ]
+}
