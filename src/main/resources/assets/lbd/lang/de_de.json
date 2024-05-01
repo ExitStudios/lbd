@@ -2,6 +2,8 @@
   "item.lbd.ruby": "Rubin",
   "item.lbd.raw_ruby": "Rohrubin",
   "item.lbd.metal_detector": "Metalldetektor",
+  "item.lbd.strawberry": "Erdbeere",
+  "item.lbd.coal_briquette": "Kohlebriquette",
 
   "block.lbd.ruby_block": "Rubinblock",
   "block.lbd.raw_ruby_block": "Rohrubinblock",
@@ -10,5 +12,7 @@
   "block.lbd.nether_ruby_ore": "Rubinerz",
   "block.lbd.sound_block": "Musikblock",
 
-  "itemgroup.lbd": "LBD"
+  "itemgroup.lbd": "LBD",
+
+  "item.lbd.metal_detector": "Findet in der Erde verborgene Metalle"
 }

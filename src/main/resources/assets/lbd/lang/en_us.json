@@ -2,6 +2,8 @@
   "item.lbd.ruby": "Ruby",
   "item.lbd.raw_ruby": "Raw Ruby",
   "item.lbd.metal_detector": "Metal Detector",
+  "item.lbd.strawberry": "Strawberry",
+  "item.lbd.coal_briquette": "Coal Briquette",
 
   "block.lbd.ruby_block": "Block of Ruby",
   "block.lbd.raw_ruby_block": "Block of Raw Ruby",
@@ -10,5 +12,8 @@
   "block.lbd.nether_ruby_ore": "Ruby Ore",
   "block.lbd.sound_block": "Sound Block",
 
-  "itemgroup.lbd": "LBD"
+  "itemgroup.lbd": "LBD",
+
+  "item.lbd.metal_detector": "Finds metals hidden in the ground"
+
 }

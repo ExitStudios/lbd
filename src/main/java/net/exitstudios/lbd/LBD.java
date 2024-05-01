@@ -5,6 +5,7 @@ import net.exitstudios.lbd.item.ModItemGroups;
 import net.exitstudios.lbd.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
+import net.fabricmc.fabric.api.registry.FuelRegistry;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -18,6 +19,8 @@ public class LBD implements ModInitializer {
         ModItemGroups.registerItemGroups();
         ModItems.registerModItems();
         ModBlocks.registerModBlocks();
+
+        FuelRegistry.INSTANCE.add(ModItems.COAL_BRIQUETTE, 600);
     }
 
 }
